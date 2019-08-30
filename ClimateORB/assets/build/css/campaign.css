@@ -1,0 +1,15 @@
+.headline_outer {
+    background-image: url('../../media/images/bg/subpage-heading.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.headline_aligner,
+.cmsmasters_breadcrumbs_aligner {
+    min-height: 345px;
+}
+
+.cmsmasters_stats.shortcode_animated #cmsmasters_stat_5d63c7f186ff9.cmsmasters_stat {
+    width: 10%;
+}
